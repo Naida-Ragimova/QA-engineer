@@ -1,17 +1,17 @@
-<h1 align="center">Портфолио: инженер по тестированию</h3>
+# <h1 align="center">Портфолио: инженер по тестированию</h3>
 
-<h2 align="center">Обо мне</h3>
+## <h2 align="center">Обо мне</h3>
 
 Привет! Меня зовут Наида, я тестировщик джун с опытом работы в тестировании 10 месяцев.
 
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
-<h2 align="center">Навыки и технологии</h3>
+## <h2 align="center">Навыки и технологии</h3>
 
 `Jira`, `qase.io`, `SQL`, `Postman`, `Fiddler`, `Swagger`, `Trello`,
 `SoapUI`, `Android Studio`, `xCode`, `Charles`, `Git`, `Chrome DevTools`.
 
-<h2 align="center">Проекты</h3>
+## <h2 align="center">Проекты</h3>
 
 Проект 1: тест веб-приложения для учителей от Skyeng
 
@@ -53,7 +53,7 @@
 
 Итог №2
 
-<h2 align="center">Контактная информация</h3>
+## <h2 align="center">Контактная информация</h3>
 
 Email: nicenaida@mail.ru
 
