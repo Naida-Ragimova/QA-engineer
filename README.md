@@ -9,7 +9,7 @@
 <h2 align="center">Навыки и технологии</h2>
 
 `Jira`, `qase.io`, `SQL`, `Postman`, `Fiddler`, `Swagger`, `Trello`,
-`SoapUI`, `Android Studio`, `xCode`, `Charles`, `Git`, `Chrome DevTools`.
+`SoapUI`, `Git`, `Chrome DevTools`.
 
 <h2 align="center">Проекты</h2>
 
