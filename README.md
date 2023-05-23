@@ -57,7 +57,7 @@
 
 Итог №2
 
-## <h2 align="center">Контактная информация</h3>
+<h2 align="center">Контактная информация</h3>
 
 Email: nicenaida@mail.ru
 
